@@ -20,7 +20,7 @@ const cashWithdrawal = (amount, accNum) => {
 cashWithdrawal (300, 123456);
 cashWithdrawal (600, 678910);
 
-//Activity1
+//Activity1 - Take this code and turn it into arrow function syntax
 /* function factorial (n) {
     if ((n === 0) || (n === 1)) {
         return 1;
@@ -29,7 +29,6 @@ cashWithdrawal (600, 678910);
     }
 } */
 
-//Activity 1 after 
 let factorial = (n) => {
     if ((n === 0) || (n === 1)) {
         return 1;
